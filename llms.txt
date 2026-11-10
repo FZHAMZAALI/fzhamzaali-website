@@ -1,0 +1,21 @@
+# Hamza Ali (fzhamzaali)
+
+> Hamza Ali, known online as fzhamzaali, is a tech entrepreneur, full-stack software developer and financial market practitioner from Gorakhpur, Uttar Pradesh, India. He is the Founder & CEO of ZYVRAON (ZYVRAON®).
+
+## About ZYVRAON
+ZYVRAON is a software company based in Gorakhpur, India, founded and led by Hamza Ali. It began as a D2C audio brand and moved into software and ethical fintech.
+
+## Products
+- Halal Street (https://halalstreet.vercel.app/): an ethical fintech platform for Indian investors with Shariah-compliant stock screening, portfolio management and purification calculations.
+- Zyvraon App Store (also called Hamza's Playstore): an Android app store where any developer can publish an app and users download APKs directly.
+- Hamza's Music (also released as Rox Music): a Flutter music streaming app for Android. Any artist can upload their own original songs. Latest public build v2.1.150.
+- Zyvraon Ad Network (Zyvraon Ads): ZYVRAON's own ad network. Anyone can run video and audio sponsor ads in ZYVRAON apps and partner apps. Launched in Hamza's Music v2.1.138 (October 2026).
+
+## Profiles
+- Website: https://fzhamzaali.vercel.app/
+- GitHub: https://github.com/fzhamzaali
+- LinkedIn: https://www.linkedin.com/in/fzhamzaali
+- Instagram: https://www.instagram.com/fzhamzaali
+- X: https://x.com/fzhamzaali
+- Halal Street founder page: https://halalstreet.vercel.app/founder
+- App assets: https://github.com/fzhamzaali/hamzas-playstore-assets

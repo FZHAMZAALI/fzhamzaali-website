@@ -200,9 +200,9 @@ summary{cursor:pointer;font:600 17px/1.4 var(--f-display)}
 details p{margin:10px 0 0;color:var(--muted);max-width:65ch}
 .faq{margin-top:20px}
 
-.gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:24px}
+.gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:24px;align-items:start}
 .gallery figure{margin:0;display:grid;gap:8px}
-.gallery img{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center top;border-radius:12px;background:var(--line)}
+.gallery img{display:block;width:100%;height:auto;border-radius:12px;background:var(--line)}
 .gallery figcaption{font-size:13px;color:var(--muted)}
 @media (max-width:560px){.gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .zlogo{width:28px;height:28px;border-radius:6px;vertical-align:-5px}

@@ -11,6 +11,11 @@ ZYVRAON is a software company based in Gorakhpur, India, founded and led by Hamz
 - Hamza's Music (also released as Rox Music): a Flutter music streaming app for Android. Any artist can upload their own original songs. Latest public build v2.1.150.
 - Zyvraon Ad Network (Zyvraon Ads): ZYVRAON's own ad network. Anyone can run video and audio sponsor ads in ZYVRAON apps and partner apps. Launched in Hamza's Music v2.1.138 (October 2026).
 
+## Pages
+- About Hamza Ali: https://fzhamzaali.vercel.app/
+- About ZYVRAON: https://fzhamzaali.vercel.app/zyvraon/
+- Photos of fzhamzaali: https://fzhamzaali.vercel.app/photos/
+
 ## Profiles
 - Website: https://fzhamzaali.vercel.app/
 - GitHub: https://github.com/fzhamzaali

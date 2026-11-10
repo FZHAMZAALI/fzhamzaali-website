@@ -3,11 +3,26 @@
   <url>
     <loc>https://fzhamzaali.vercel.app/</loc>
     <lastmod>2026-11-10</lastmod>
+    <priority>1.0</priority>
     <image:image><image:loc>https://fzhamzaali.vercel.app/fzhamzaali.webp</image:loc></image:image>
     <image:image><image:loc>https://fzhamzaali.vercel.app/fzhamzaali-hamza-ali-portrait.webp</image:loc></image:image>
     <image:image><image:loc>https://fzhamzaali.vercel.app/fzhamzaali-hamza-ali-vande-bharat.webp</image:loc></image:image>
     <image:image><image:loc>https://fzhamzaali.vercel.app/fzhamzaali-hamza-ali-airport.webp</image:loc></image:image>
-    <image:image><image:loc>https://fzhamzaali.vercel.app/zyvraon-logo.webp</image:loc></image:image>
     <image:image><image:loc>https://fzhamzaali.vercel.app/fzhamzaali-zyvraon-og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://fzhamzaali.vercel.app/zyvraon/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://fzhamzaali.vercel.app/zyvraon-logo.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://fzhamzaali.vercel.app/photos/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://fzhamzaali.vercel.app/fzhamzaali.webp</image:loc></image:image>
+    <image:image><image:loc>https://fzhamzaali.vercel.app/fzhamzaali-hamza-ali-portrait.webp</image:loc></image:image>
+    <image:image><image:loc>https://fzhamzaali.vercel.app/fzhamzaali-hamza-ali-vande-bharat.webp</image:loc></image:image>
+    <image:image><image:loc>https://fzhamzaali.vercel.app/fzhamzaali-hamza-ali-airport.webp</image:loc></image:image>
   </url>
 </urlset>

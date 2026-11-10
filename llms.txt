@@ -8,8 +8,8 @@ ZYVRAON is a software company based in Gorakhpur, India, founded and led by Hamz
 ## Products
 - Halal Street (https://halalstreet.vercel.app/): an ethical fintech platform for Indian investors with Shariah-compliant stock screening, portfolio management and purification calculations.
 - Zyvraon App Store (also called Hamza's Playstore): an Android app store where any developer can publish an app and users download APKs directly.
-- Hamza's Music (also released as Rox Music): a Flutter music streaming app for Android. Any artist can upload their own original songs. Latest public build v2.1.150.
-- Zyvraon Ad Network (Zyvraon Ads): ZYVRAON's own ad network. Anyone can run video and audio sponsor ads in ZYVRAON apps and partner apps. Launched in Hamza's Music v2.1.138 (October 2026).
+- Hamza Music (also released as Rox Music): a Flutter music streaming app for Android. Any artist can upload their own original songs. Latest public build v2.1.150.
+- Zyvraon Ad Network (Zyvraon Ads): ZYVRAON's own ad network. Anyone can run video and audio sponsor ads in ZYVRAON apps and partner apps. Launched in Hamza Music v2.1.138 (October 2026).
 
 ## Pages
 - About Hamza Ali: https://fzhamzaali.vercel.app/
